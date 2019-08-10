@@ -2,7 +2,7 @@
 ### ENGGEN 131 Assignment
 
 This project aims to recreate k-colour images (where k is a
-value specified by the user) from any arbitrary image containing many colours. The program uses the k-means clustering algorithm to group the pixel colours used in the
+value specified by the user) from any arbitrary image containing many colours. The program uses the [k-means clustering algorithm](https://en.wikipedia.org/wiki/K-means_clustering) to group the pixel colours used in the
 image into clusters. By determining the appropriate colours to use by taking the mean RGB
 values of each cluster, the program produces a reduced colour image as accurate a representation of the
 original colour image as possible. 
