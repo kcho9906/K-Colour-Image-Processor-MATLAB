@@ -8,9 +8,11 @@ values of each cluster, the program produces a reduced colour image as accurate 
 original colour image as possible. 
 
 **Before**
+
 ![alt text](input.jpg)
 
-**After**
+**After **
+
 ![alt text](output.jpg)
 
 ## Executing the Program
