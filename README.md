@@ -11,7 +11,7 @@ original colour image as possible.
 
 ![alt text](input.jpg)
 
-**After **
+**After**
 
 ![alt text](output.jpg)
 
